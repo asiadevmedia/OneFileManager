@@ -1,7 +1,7 @@
 <?php 
 namespace OneFileManager;
 
-use OneFileManager\Common;
+use \OneFileManager\Common;
 
 /**
  * File Grabber
