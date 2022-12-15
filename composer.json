@@ -1,6 +1,5 @@
 {
     "name": "asiadevmedia/onefilemanager",
-    "type": "library",
     "description": "file manager for php",
     "license": "MIT",
     "keywords": [
@@ -14,7 +13,7 @@
     ],
     "autoload": {
         "psr-0": {
-            "onefilemanager": "src/"
+            "OneFileManager": "src/"
         }
     },
     "require": {
