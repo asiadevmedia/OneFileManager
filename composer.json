@@ -12,8 +12,8 @@
         }
     ],
     "autoload": {
-        "psr-0": {
-            "OneFileManager": "src/"
+        "psr-4": {
+            "OneFileManager\\": "src/"
         }
     },
     "require": {
