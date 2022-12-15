@@ -1,0 +1,20 @@
+{
+    "name": "asiadevmedia/onefilemanager",
+    "description": "file manager for php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Asiadevmedia"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Asiadevmedia\\Onefilemanager\\": "src"
+        }
+    },
+    "require": {
+        "claviska/simpleimage": "^3.3",
+        "php-ffmpeg/php-ffmpeg": "^0.11.1",
+        "php":  ">=5.6.0"
+    }
+}
