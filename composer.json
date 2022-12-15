@@ -2,6 +2,7 @@
     "name": "asiadevmedia/onefilemanager",
     "description": "file manager for php",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Asiadevmedia"
