@@ -1,8 +1,13 @@
 {
     "name": "asiadevmedia/onefilemanager",
+    "type": "library",
     "description": "file manager for php",
     "license": "MIT",
     "version": "1.0.0",
+    "keywords": [
+        "php",
+        "file manager"
+    ],
     "authors": [
         {
             "name": "Asiadevmedia"
